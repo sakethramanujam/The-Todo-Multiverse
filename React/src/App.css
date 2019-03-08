@@ -1,0 +1,28 @@
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 36px;
+  color: white;
+  padding: 12px;
+}
+
+h4 {
+  font-weight: 300;
+  font-size: 24px;
+}
+
+a,
+a:visited {
+  color: #61dafb;
+}
+
+.limitHeight {
+  max-height: 600px !important;
+  overflow-y: auto;
+}
+
+.dones {
+  text-decoration: line-through;
+}
